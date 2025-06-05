@@ -3,7 +3,6 @@
 import React from "react";
 import { useSortable } from "@dnd-kit/sortable";
 import { FaEquals } from "react-icons/fa6";
-import { FiPaperclip } from "react-icons/fi";
 import { CSS } from "@dnd-kit/utilities";
 
 import MapIcon from "../../../assets/icons/google-maps.png";
