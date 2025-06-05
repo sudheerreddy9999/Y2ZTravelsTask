@@ -1,0 +1,62 @@
+
+{
+  "places": [
+    {
+      "id": 1,
+      "name": "India Gate",
+      "rating": 4.6,
+      "reviews": 128124,
+      "description": "India Gate is a war memorial located in New Delhi, along Rajpath, dedicated to the 82,000 soldiers, both Indian and British.",
+      "image": "indiaGate",
+      "actions": {
+        "location": true,
+        "pin": true,
+        "edit": true,
+        "delete": true
+      },
+      "tag": "Perinbaraj S"
+    },
+    {
+      "id": 2,
+      "name": "Red Fort",
+      "rating": 4.5,
+      "reviews": 198736,
+      "description": "The Red Fort is a historical fort in the old Delhi area, on the banks of Yamuna area, on the banks of Yamuna.",
+      "image": "redfort",
+      "actions": {
+        "location": true,
+        "pin": true,
+        "edit": true,
+        "delete": true
+      }
+    },
+    {
+      "id": 3,
+      "name": "Qutub Minar",
+      "rating": 4.5,
+      "reviews": 151556,
+      "description": "Qutub Minar is a minaret or a victory tower located in the Qutub complex, a UNESCO World Heritage Site in Delhi's Mehrauli area.",
+      "image": "qutubminar",
+      "actions": {
+        "location": true,
+        "pin": true,
+        "edit": true,
+        "delete": true
+      }
+    }
+    ,    {
+      "id": 4,
+      "name": "Lotus Temple",
+      "rating": 4.5,
+      "reviews": 67772,
+      "description": "Located in the national capital of New Delhi, the Lotus Temple is an edifice dedicated to the Bahá'í faith.",
+      "image": "lotusTemple",
+      "actions": {
+        "location": true,
+        "pin": true,
+        "edit": true,
+        "delete": true
+      }
+    }
+  ]
+}

@@ -1,8 +1,14 @@
+'use client';
 
-export default function Home() {
+import React from 'react';
+import Header from './components/Header/Header';
+import MainContainer from './components/MainContainer';
+
+
+export default function SortableList() {
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <h1 className="bg-amber-100 rounded-md p-3">Hello Stater Code</h1>
+    <div className="sm:px-6">
+      <MainContainer/>
     </div>
   );
 }

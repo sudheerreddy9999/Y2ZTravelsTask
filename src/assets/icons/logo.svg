@@ -1,0 +1,13 @@
+'use client';
+
+import React from 'react';
+import SortableContainer from './SortableContainer';
+
+export default function SortableList() {
+  return (
+    <div className="max-w-md mx-auto mt-10">
+      <h2 className="text-2xl font-semibold text-center mb-4">Sortable List</h2>
+      <SortableContainer />
+    </div>  
+  );
+}
